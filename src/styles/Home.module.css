@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  max-width: 1200px;
+  margin: auto;
+  width: 80%;
+}
+.container section {
+  margin: 3em 0;
+}

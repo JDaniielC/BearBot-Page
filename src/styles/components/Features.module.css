@@ -1,0 +1,17 @@
+.container .features {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.container span {
+    flex: 1 1 49%;
+    margin: 1em;
+    padding: 1em;
+    max-width: 40%;
+    border: solid .4em var(--main-color);
+}
+.container span p {
+    font-family: "Poppins", Sans-serif;
+    font-size: 2em;
+    font-weight: 600;
+}
