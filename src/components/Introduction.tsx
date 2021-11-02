@@ -1,11 +1,12 @@
 import React from "react";
 import styles from 'styles/components/Introduction.module.css';
+import Image from 'next/image';
 
 export default function Introduction() {
   return (
     <section className={styles.container}>
       <div className={styles.logoContainer}>
-        <img src="/logoDesktop.svg" alt="logo"/>
+        <Image src="/logoDesktop.svg" alt="logo"/>
       </div>
       <h2> 
         Uma ferramenta que ajuda pessoas a ver o mercado financeiro 
@@ -29,5 +30,3 @@ export default function Introduction() {
     </section>
   )
 }
-
-

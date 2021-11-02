@@ -1,5 +1,5 @@
 import styles from 'styles/components/Plans.module.css';
-import {FcCheckmark} from "react-icons/fc";
+import { FcCheckmark } from "react-icons/fc";
 
 export default function Plans() {
     return (

@@ -6,6 +6,12 @@
   max-width: 1200px;
   margin: auto;
   width: 80%;
+
+  background-image: url("../../public/claw.png");
+  background-position: top right;
+  background-position-x: 120%;
+  background-repeat: no-repeat;
+  background-size: 40em;
 }
 .container section {
   margin: 3em 0;
