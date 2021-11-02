@@ -6,7 +6,7 @@ export default function Introduction() {
   return (
     <section className={styles.container}>
       <div className={styles.logoContainer}>
-        <Image src="/logoDesktop.svg" alt="logo"/>
+        <Image layout='fill' src="/logoDesktop.svg" alt="logo"/>
       </div>
       <h2> 
         Uma ferramenta que ajuda pessoas a ver o mercado financeiro 

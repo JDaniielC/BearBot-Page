@@ -8,6 +8,9 @@
 }
 .logoContainer {
     margin: 4em;
+    position: relative;
+    width: 30em;
+    height: 30em;
 }
 .container h2 {
     width: 90%;
