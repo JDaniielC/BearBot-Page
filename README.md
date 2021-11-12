@@ -1,3 +1,3 @@
 # Página de vendas do Bear Bot
 
-![home image](.github\page.png)
+![home image](https://github.com/JDaniielC/BearBot-Page/blob/main/.github/page.png)
