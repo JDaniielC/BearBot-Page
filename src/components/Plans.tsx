@@ -61,7 +61,7 @@ export default function Plans() {
                     <FcCheckmark size={30}/>
                     Antecipação de resultados e entradas!
                 </p>
-                <a href="https://t.me/estrategiabearteste" className="buyBtn">
+                <a href="https://go.perfectpay.com.br/PPU38CKHMDQ" className="buyBtn">
                     ASSINE JÁ
                 </a>
             </div>

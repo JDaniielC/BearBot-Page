@@ -9,7 +9,7 @@ export default function Contacts() {
             rel="noreferrer" target="_blank">
                 <IoLogoWhatsapp size={50}/>
             </a>
-            <a rel="noreferrer" href="https://t.me/estrategiabearteste" target="_blank">
+            <a rel="noreferrer" href="https://t.me/SuporteBullgain" target="_blank">
                 <BsTelegram size={50}/>
             </a>
             <h4>

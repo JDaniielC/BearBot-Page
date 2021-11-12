@@ -6,7 +6,8 @@ export default function Introduction() {
   return (
     <section className={styles.container}>
       <div className={styles.logoContainer}>
-        <Image layout='fill' src="/logoDesktop.svg" alt="logo"/>
+        <Image src="/logoDesktop.svg"  
+        width={375} height={375} priority alt="logo"/>
       </div>
       <h2> 
         Uma ferramenta que ajuda pessoas a ver o mercado financeiro 
@@ -24,7 +25,7 @@ export default function Introduction() {
         allow="accelerometer; autoplay; clipboard-write; 
         encrypted-media; gyroscope; picture-in-picture"/> 
         
-      <a href="#comprar" className={styles.buyBt}> 
+      <a href="https://go.perfectpay.com.br/PPU38CKHMDQ" className={styles.buyBt}> 
         Comprar agora 
       </a>
     </section>
